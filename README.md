@@ -15,6 +15,10 @@ frost number depending on what data area available at the site.
 * The surface frost number also requires indication of the year's precipitation.
 * The Stefan frost number additionally incorporates soil information.
 
+For more information,
+including source code and examples,
+please see https://github.com/permamodel/permamodel.
+
 Ku
 --
 
@@ -24,12 +28,19 @@ Implements a semi-empirical/analytical solution to soil conditions. Please cite:
 
 > Overeem, I., E. Jafarov, K. Wang, K. Schaefer, S. Stewart, G. Clow, M. Piper, and Y. Elshorbany (2018). A modeling toolbox for permafrost landscapes. Eos. https://doi.org/10.1029/2018EO105155.
 
+For more information,
+including source code and examples,
+please see https://github.com/permamodel/permamodel.
+
 GIPL
 ----
 
 GIPL is a numerical model that solves for the temperature profile
 of a soil column given its material properties and the temperature and
-precipitation conditions it experiences. For more information please see https://github.com/Elchin/GIPL and https://github.com/permamodel/GIPL-BMI-Fortran.
+precipitation conditions it experiences.
+
+For more information,
+please see https://github.com/Elchin/GIPL and https://github.com/permamodel/GIPL-BMI-Fortran.
 
 
 Acknowledgement
