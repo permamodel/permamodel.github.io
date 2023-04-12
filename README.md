@@ -17,7 +17,7 @@ frost number depending on what data area available at the site.
 
 For more information,
 including source code and examples,
-please see <a href="https://github.com/permamodel/permamodel" alt="Link to permamodel source code">https://github.com/permamodel/permamodel</a>.
+please see <a href="https://github.com/permamodel/permamodel" title="Link to permamodel source code">https://github.com/permamodel/permamodel</a>.
 
 Ku
 --
@@ -30,7 +30,7 @@ Implements a semi-empirical/analytical solution to soil conditions. Please cite:
 
 For more information,
 including source code and examples,
-please see <a href="https://github.com/permamodel/permamodel" alt="Link to permamodel source code">https://github.com/permamodel/permamodel</a>.
+please see <a href="https://github.com/permamodel/permamodel" title="Link to permamodel source code">https://github.com/permamodel/permamodel</a>.
 
 GIPL
 ----
@@ -40,8 +40,8 @@ of a soil column given its material properties and the temperature and
 precipitation conditions it experiences.
 
 For more information,
-please see <a href="https://github.com/Elchin/GIPL" alt="Link to Elchin's version of GIPL">https://github.com/Elchin/GIPL</a>
-and <a href="https://github.com/permamodel/GIPL-BMI-Fortran" alt="Link to Kang's version of GIPL">https://github.com/permamodel/GIPL-BMI-Fortran</a>.
+please see <a href="https://github.com/Elchin/GIPL" title="Link to Elchin's version of GIPL">https://github.com/Elchin/GIPL</a>
+and <a href="https://github.com/permamodel/GIPL-BMI-Fortran" title="Link to Kang's version of GIPL">https://github.com/permamodel/GIPL-BMI-Fortran</a>.
 
 Acknowledgement
 ---------------
